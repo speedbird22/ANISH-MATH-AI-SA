@@ -1,3 +1,3 @@
 # ANISH-MATH-AI-SA
 
-streamlit app - https://anish-math-ai-fa-2-qq7ztpjdtlryhrduvvb9sm.streamlit.app/
+streamlit app - https://anish-math-ai-sa-kwqnsl5gxtwoe5vy8yhwsy.streamlit.app/
